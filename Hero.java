@@ -19,7 +19,7 @@ public class Hero{
         this.age = age;
     }
 
-    public void getAge(){
+    public int getAge(){
         return this.age;
     }
 }
